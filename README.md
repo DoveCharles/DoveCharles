@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... truckin'
 - 🌱 I’m currently learning ... truckin'
 - 💞️ I’m looking to collaborate on ... truckin'
-- 📫 How to reach me ... truck
+- 📫 How to reach me ... the Beacon
 
 <!---
 DoveCharles/DoveCharles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
